@@ -1,0 +1,7 @@
+.btnu{
+  cursor: pointer;
+  transition: 1s ;
+}
+.btnu:hover{
+  transform: scale(1.1);
+}
