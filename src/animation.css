@@ -5,3 +5,8 @@
 .btnu:hover{
   transform: scale(1.1);
 }
+@media(max-width:510px){
+  .dn{
+    display: none;
+  }
+}
